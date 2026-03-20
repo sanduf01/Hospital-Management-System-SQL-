@@ -5,8 +5,6 @@
 ## Overview
 Complete **Hospital Management System** implemented as a MySQL database. Models hospital operations including staff hierarchy (Doctors, Nurses, Surgeons, Head Doctors), patients, medications, allergies, locations, and surgeries with many-to-many relationships.
 
-**Registration Number**: 523607238 (from project scripts)
-
 ## 🚀 Features
 - **Staff Management**: Hierarchical staff with roles (Doctor/Nurse/Surgeon), Head Doctor monitoring.
 - **Patient Management**: Patient details, allergies, bed/room locations, blood type.
